@@ -1,0 +1,5 @@
+std_msgs/Duration duration
+string[] name
+float64[] position
+---
+bool result
